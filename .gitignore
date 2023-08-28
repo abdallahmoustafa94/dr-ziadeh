@@ -1,0 +1,57 @@
+# Next.js
+node_modules/
+.next/
+out/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build artifacts
+build/
+dist/
+
+# Compiled files
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.log.*
+*.yarn-integrity
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Mac directories and files
+.DS_Store
+
+# Windows directories and files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Package manager cache
+.yarn
+.pnpm
+.npm
+
+# Next.js Image Optimization
+images/*
+!images/placeholder.png
+
+# Automatic backup files
+*~
+*.swp
+*.bak
