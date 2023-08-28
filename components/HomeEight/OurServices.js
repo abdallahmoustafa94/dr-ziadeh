@@ -28,7 +28,7 @@ const OurServices = () => {
 عيادة دكتور زيادة هى المكان المناسب لبداية جديدة لأبتسامة أكثر جمالا لك ولاطفالك.
                 </p>
 
-                <Link href="/service-details" className="read-more">
+                <Link href="/services-1" className="read-more">
                   المزيد <i className="bx bx-plus"></i>
                 </Link>
               </div>
@@ -45,7 +45,7 @@ const OurServices = () => {
 فقد حان الوقت لرؤية ابتسامتك أكثر جاذبية مع خبراء عيادة دكتور زيادة .
                 </p>
 
-                <Link href="/service-details" className="read-more">
+                <Link href="/services-1" className="read-more">
                   المزيد <i className="bx bx-plus"></i>
                 </Link>
               </div>
@@ -61,7 +61,7 @@ const OurServices = () => {
                 زراعة الأسنان ستجعلك تتمتع باسنان جديدة منسجمة جيدا مع باقي الأسنان الطبيعية،لأعطاء مظهر صحي و متناغم، فهى حل رائع ومتكامل مقارنة بالخيارات الترميميةالأخرى كالطقم المتحرك.
                 </p>
 
-                <Link href="/service-details" className="read-more">
+                <Link href="/services-1" className="read-more">
                   المزيد <i className="bx bx-plus"></i>
                 </Link>
               </div>
@@ -80,7 +80,7 @@ const OurServices = () => {
                 لنجعلهم يستمتعون بطفولتهم بدون خوف أو قلق فإن طب الأسنان الوقائي مهم جدا في علاج الأسنان للأطفال، لدى خبراء قسم الأطفال فى عيادة دكتور زيادة العديد من الإجراءات والطرق لحمايةأسنان طفلك وجعل ابتسامته دائما جميلة
                 </p>
 
-                <Link href="/service-details" className="read-more">
+                <Link href="/services-1" className="read-more">
                   المزيد <i className="bx bx-plus"></i>
                 </Link>
               </div>
