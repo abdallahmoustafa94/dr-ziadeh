@@ -33,6 +33,7 @@ const Layout = ({ children }) => {
     alignItems: 'center',
     justifyContent: 'center',
     boxShadow: '0 2px 5px rgba(0, 0, 0, 0.2)', // Add a subtle shadow
+    zIndex:'9999'
   };
   return (
     <>
