@@ -35,7 +35,7 @@ const ContactForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const url = `dr-ziadeh.vercel.app/api/contact`;
+      const url = `/api/contact`;
       const { name, email, number, subject, text } = contact;
       const payload = { name, email, number, subject, text };
       const response = await axios.post(url, payload);
