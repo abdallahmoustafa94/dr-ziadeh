@@ -62,6 +62,7 @@ const Layout = ({ children }) => {
       
       {/* Floating WhatsApp button */}
       <button
+      className="whatsapp"
         style={{ ...buttonStyle, backgroundColor: '#25d366' }}
         onClick={handleWhatsAppClick}
       >
@@ -70,6 +71,7 @@ const Layout = ({ children }) => {
       
       {/* Floating Call button */}
       <button
+      className="call"
         style={{ ...buttonStyle, backgroundColor: '#007bff',bottom:'90px' }}
         onClick={handleCallClick}
       >
