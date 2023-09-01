@@ -61,22 +61,22 @@ const Layout = ({ children }) => {
       {/* Your page content */}
       
       {/* Floating WhatsApp button */}
-      <button
+      <a
       className="whatsapp"
         style={{ ...buttonStyle, backgroundColor: '#25d366' }}
-        onClick={handleWhatsAppClick}
+        href="https://wa.me/1551029625"
       >
         <i className="bx bxl-whatsapp" ></i>
-      </button>
+      </a>
       
       {/* Floating Call button */}
-      <button
+      <a
       className="call"
         style={{ ...buttonStyle, backgroundColor: '#007bff',bottom:'90px' }}
-        onClick={handleCallClick}
+        href="tel:00201551029625"
       >
         <i className="bx bx-phone" ></i>
-      </button>    
+      </a>    
     </div>
       <GoTop scrollStepInPx="100" delayInMs="10.50" />
       <noscript>
