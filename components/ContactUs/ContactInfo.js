@@ -12,7 +12,7 @@ const ContactInfo = () => {
                 <h3>الاسكندرية</h3>
                 <p>٤٥٢ طريق الحرية رشدى</p>
                 <span>info@drziadehclinics.com</span>
-                <span>01551029625</span>
+                <span>01556802599</span>
               </div>
             </div>
 

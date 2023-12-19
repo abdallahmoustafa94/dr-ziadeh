@@ -1,3 +1,3 @@
-const baseUrl = "https://dr-ziadeh.vercel.app"
+const baseUrl = "https://drziadehclinics.com"
 
 export default baseUrl;

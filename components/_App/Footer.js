@@ -101,7 +101,7 @@ const Footer = () => {
                     <a href="tel:+822456974 " className="text-black" >
                     <span className="text-black">التليفون:</span>
                       <i className="bx bx-phone-call text-black"></i>
-                     01551029625
+                      01556802599
                     </a>
                   </li>
                   <li>

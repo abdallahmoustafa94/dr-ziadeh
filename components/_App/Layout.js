@@ -5,17 +5,6 @@ import Preloader from "./Preloader";
 
 const Layout = ({ children }) => {
 
-  const handleWhatsAppClick = () => {
-    // Implement WhatsApp button click logic
-    // For example, you can open a WhatsApp chat link
-    window.open('https://wa.me/1551029625', '_blank');
-  };
-
-  const handleCallClick = () => {
-    // Implement call button click logic
-    // For example, you can open a call link
-    window.open('tel:00201551029625');
-  };
 
   const buttonStyle = {
     position: 'fixed',
@@ -64,7 +53,7 @@ const Layout = ({ children }) => {
       <a
       className="whatsapp"
         style={{ ...buttonStyle, backgroundColor: '#25d366' }}
-        href="https://wa.me/1551029625"
+        href="https://wa.me/1556802599"
       >
         <i className="bx bxl-whatsapp" ></i>
       </a>
@@ -73,7 +62,7 @@ const Layout = ({ children }) => {
       <a
       className="call"
         style={{ ...buttonStyle, backgroundColor: '#007bff',bottom:'90px' }}
-        href="tel:00201551029625"
+        href="tel:00201556802599"
       >
         <i className="bx bx-phone" ></i>
       </a>    
